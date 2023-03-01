@@ -12,3 +12,13 @@
   --color-text: #81AFDD;
   --color-subtext: #FF8A71;
 }
+
+* ::-webkit-scrollbar {
+  width: 10px;
+  background-color:  #121212;
+}
+
+* ::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background:#262B2B;
+}
